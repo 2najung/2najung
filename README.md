@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer interested in web techn
 
 - **Tmax WAPL**  
   _2020.07 - 2023.10_  
-  Worked as a full-stack developer specializing in web technologies.
+
 
 - **Tmax AI**  
   _2023.10 - Present_  
-  Currently working as an AI developer, focusing on machine learning and AI-powered solutions.
+
 
 ## 🛠 Tech Stack
 
